@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<body>
+<tittle>Clasificación</title>
+<h1><strong>Clasificación</strong> de la Liga</h1>
+<img src= "http://www.brandemia.org/sites/default/files/sites/default/files/logotipos4.jpg" alt="La Liga">
+<p>A continuación va a ver la clasificación de la liga/p>
+<ol>
+ <li>1º Real Madrid</li>
+ <li>2º Sevilla</li>
+ <li>3º Mallorca</li>
+ <li>4º Valladolid</li>
+ <li>5º Alavés</li>
+ <li>6º Athletic</li>
+ <li>7º Atlético</li>
+ <li>8º Osasuna</li>
+ <li>9º Granada</li>
+<li>10º Villareal</li>
+<li>11º Real Sociedad</li>
+<li>12º Valencia</li>
+<li>13º Eibar</li>
+<li>14º Betis/li>
+<li>15º Barcelona</li>
+<li>16º Getafe</li>
+<li>17º Leganés</li>
+<li>18º Levante</li>
+<li>19º Celta</li>
+<li>20º Espanyol</li>
+</body>
+</html>
